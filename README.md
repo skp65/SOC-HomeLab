@@ -47,7 +47,7 @@ All VMs run in VirtualBox on a host-only network (`192.168.50.0/24`) with DHCP r
 | Phase | Track | Topic | Status | Log |
 |---|---|---|---|---|
 | 1 | Lab Setup | VM setup, networking, AD, DHCP | ✅ Complete | [log](Phase-1-Lab-Setup/log.md) |
-| 2 | Lab Setup | Elastic SIEM + Suricata + Fleet | ✅ Complete | [log](phase-02-elastic-siem/log.md) |
+| 2 | Lab Setup | Elastic SIEM + Suricata + Fleet | ✅ Complete | [log](Phase-2-Lab-Setup/log.md) |
 | 3 | Lab Setup | Wazuh EDR | 🔧 In Progress | — |
 <!-- 
 | 4 | SOC L1 Workflow | Windows, Linux, network log fundamentals | ⬜ Upcoming | — |
